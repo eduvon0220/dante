@@ -1,6 +1,6 @@
 # dante
 
-Get a random quotation form the world's greatest poet, Dante.
+Get a random quotation from the world's greatest poet, Dante.
 
 ##Installation
 This package is distributed via npm:
